@@ -2,7 +2,7 @@
 Coding challenges from #freecodecamp to test my knowledge of algorithms, data structures, and mathematics in JavaScript.
 
 * Algorithms
-  - [Symmetric difference]('./algorithms/symmetricDiff.js)
+  - [Symmetric difference]('./tree/master/algorithms/symmetricDiff.js)
   <!-- - Inventory update
   - No repeat
   - Pairwise
