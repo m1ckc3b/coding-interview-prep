@@ -1,4 +1,11 @@
 /**
+ * Coding Interview Prep #1
+ * Title: Find the Symmetric Difference
+ * Instruction: Create a function that takes two or more arrays and returns an array of their symmetric difference.
+ * The returned array must contain only unique values (no duplicates).
+ */
+
+/**
  * Return symmetric difference between given arrays of numbers. 
  *
  * @param {*} args, arrays of number
