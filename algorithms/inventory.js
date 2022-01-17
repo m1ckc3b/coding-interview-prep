@@ -11,9 +11,9 @@
 /**
  * Check if item exists in a given array
  *
- * @param {arr} Array array in which finding
- * @param {name} String item to find
- * @return {*} Boolean  
+ * @param {array} arr array in which finding
+ * @param {string} name item to find
+ * @return {boolean} Boolean  
  */
 function isExists(arr, name) {
   return arr.find(e => e[1] === name ? true : false)
@@ -22,9 +22,9 @@ function isExists(arr, name) {
 /**
  * Update a given inventory array with new data
  *
- * @param {arr1} Array current inventory
- * @param {arr2} Array new inventory
- * @return {newInventory} Array update of current inventory 
+ * @param {array} arr1 current inventory
+ * @param {array} arr2 new inventory
+ * @return {array} newInventory update of current inventory 
  */
 function updateInventory(arr1, arr2) {
   const newInventory = [...arr1]
