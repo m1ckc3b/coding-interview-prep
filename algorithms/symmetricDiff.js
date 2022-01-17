@@ -7,9 +7,8 @@
 
 /**
  * Return symmetric difference between given arrays of numbers. 
- *
- * @param {*} args, arrays of number
- * @return {*} [] 
+ * @param {Array<number>} args - Arrays of number.
+ * @return {Array<number>} The symmetric difference.
  */
 const sym = (...args) => {
   return [...new Set(args.reduce((a, b) => [
