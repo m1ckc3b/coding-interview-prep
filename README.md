@@ -1,5 +1,5 @@
 # Coding Interview Prep
-Coding challenges from @FreeCodeCamp to test my knowledge of algorithms, data structures, and mathematics in JavaScript.
+Coding challenges from [@FreeCodeCamp](https://github.com/FreeCodeCamp) to test my knowledge of algorithms, data structures, and mathematics in JavaScript.
 
 * Algorithms
   - [Symmetric difference](algorithms/symmetricDiff.js)
