@@ -6,13 +6,19 @@
  */
 
 /**
+ * Return a given array of numbers sorted without using Array.sort().
  *
- *
- * @param {*} array
- * @return {*} 
+ * @param {array} array - Given array of numbers.
+ * @return {array} array - Sorted array.
  */
 function selectionSort(array) {
-
+  for (let i = 1; i < array.length; i++) {
+    for (let j = 0; j < i; j++) {
+      if (array[j] > array[i]) {
+        [array[j], array[i]] = [array[i], array[j]]
+      }
+    }
+  }
   return array
 }
 
