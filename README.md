@@ -3,11 +3,16 @@ Coding challenges from #freecodecamp to test my knowledge of algorithms, data st
 
 * Algorithms
   - [Symmetric difference](https://github.com/m1ckc3b/coding-interview-prep/blob/master/algorithms/symmetricDiff.js)
+  - [No repeat](algorithms/noreêats.js)
+  - [Pairwise]()
+  - [Bubble Sort]()
+  - [Selection Sort]()
+  - [Insertion Sort]()
+  - [Quick Sort]()
+  - [Merge Sort]()
+  - [Binary Search]()
   <!-- - Inventory update
-  - No repeat
-  - Pairwise
-  - Bubble sort
-  - Selection sort
+
 * Data Structures
   - x
 * Projects
