@@ -2,15 +2,15 @@
 Coding challenges from #freecodecamp to test my knowledge of algorithms, data structures, and mathematics in JavaScript.
 
 * Algorithms
-  - [Symmetric difference](https://github.com/m1ckc3b/coding-interview-prep/blob/master/algorithms/symmetricDiff.js)
+  - [Symmetric difference](algorithms/symmetricDiff.js)
   - [No repeat](algorithms/norepeats.js)
-  - [Pairwise]()
-  - [Bubble Sort]()
-  - [Selection Sort]()
-  - [Insertion Sort]()
-  - [Quick Sort]()
-  - [Merge Sort]()
-  - [Binary Search]()
+  - [Pairwise](algorithms/pairwise.js)
+  - [Bubble Sort](algorithms/bubblesort.js)
+  - [Selection Sort](algorithms/selectionSort.js)
+  - [Insertion Sort](algorithms/insertionSort.js)
+  - [Quick Sort](algorithms/quickSort.js)
+  - [Merge Sort](algorithms/mergeSort.js)
+  - [Binary Search](algorithms/binarySearch.js)
   <!-- - Inventory update
 
 * Data Structures
