@@ -2,7 +2,7 @@
  * Coding Interview Prep #20
  * Category: Data Structures
  * Title: Perform an Intersection on Two Sets of Data
- * Instructions: Add an union method.
+ * Instructions: Add an intersection method.
  * 
  */
 
